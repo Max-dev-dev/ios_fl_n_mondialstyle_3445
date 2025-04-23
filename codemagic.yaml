@@ -10,7 +10,7 @@ workflows:
         distribution_type: app_store
         bundle_identifier: com.street.mondialstyle
       vars:
-        APP_ID: 0000000
+        APP_ID: 6744980684
       flutter: stable
       xcode: latest
       cocoapods: default
