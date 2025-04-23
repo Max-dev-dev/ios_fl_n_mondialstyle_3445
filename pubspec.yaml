@@ -1,0 +1,45 @@
+name: ios_fl_n_mondialstyle_3445
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  logger: ^2.5.0
+  flutter_bloc: ^9.0.0
+  font_awesome_flutter: ^10.8.0
+  share_plus: ^11.0.0
+  image_picker: ^1.1.2
+  url_launcher: ^6.3.1
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Aquitaine Initials Std
+      fonts:
+        - asset: assets/fonts/Aquitaine-Regular.otf
+          weight: 400
+        - asset: assets/fonts/Aquitaine-Regular.otf
+          weight: 500
+        - asset: assets/fonts/Aquitaine-Regular.otf
+          weight: 600
+
+  assets:
+    - assets/
+    - assets/data/
+    - assets/fonts/
+    - assets/outfits/
+    - assets/game_result/
+    - assets/clothes/

@@ -1,0 +1,62 @@
+[
+    {
+        "image": "assets/outfits/1.png",
+        "city": "TOKYO",
+        "season": "AUTUMN",
+        "activity": "CASUAL"
+    },
+    {
+        "image": "assets/outfits/2.png",
+        "city": "BERLIN",
+        "season": "WINTER",
+        "activity": "LIFESTYLE"
+    },
+    {
+        "image": "assets/outfits/3.png",
+        "city": "SEOUL",
+        "season": "SUMMER",
+        "activity": "SKATE"
+    },
+    {
+        "image": "assets/outfits/4.png",
+        "city": "NEW YORK",
+        "season": "MID SEASON",
+        "activity": "RUN"
+    },
+    {
+        "image": "assets/outfits/5.png",
+        "city": "LONDON",
+        "season": "AUTUMN",
+        "activity": "FITNESS"
+    },
+    {
+        "image": "assets/outfits/6.png",
+        "city": "NEW YORK",
+        "season": "MID SEASON",
+        "activity": "RUN"
+    },
+    {
+        "image": "assets/outfits/7.png",
+        "city": "NEW YORK",
+        "season": "MID SEASON",
+        "activity": "RUN"
+    },
+    {
+        "image": "assets/outfits/8.png",
+        "city": "BERLIN",
+        "season": "SUMMER",
+        "activity": "LIFESTYLE"
+    },
+    {
+        "image": "assets/outfits/9.png",
+        "city": "LONDON",
+        "season": "AUTUMN",
+        "activity": "FITNESS"
+    },
+    {
+        "image": "assets/outfits/10.png",
+        "city": "BERLIN",
+        "season": "WINTER",
+        "activity": "LIFESTYLE"
+    }
+]

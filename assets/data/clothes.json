@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "jacket, black",
+      "image": "assets/clothes/5.png",
+      "season": "Autumn",
+      "activity": "Running"
+    },
+    {
+      "id": 2,
+      "name": "hoodie, red",
+      "image": "assets/clothes/9.png",
+      "season": "Winter",
+      "activity": "out of town"
+    },
+    {
+      "id": 3,
+      "name": "pants, black",
+      "image": "assets/clothes/4.png",
+      "season": "mis season",
+      "activity": "run, gym"
+    },
+    {
+      "id": 4,
+      "name": "pants, white",
+      "image": "assets/clothes/12.png",
+      "season": "mid season",
+      "activity": "casual"
+    },
+    {
+      "id": 5,
+      "name": "sneakers, black",
+      "image": "assets/clothes/1.png",
+      "season": "mid season",
+      "activity": "run, casual"
+    },
+    {
+      "id": 6,
+      "name": "cap, red",
+      "image": "assets/clothes/6.png",
+      "season": "mid season",
+      "activity": "run, casual"
+    },
+    {
+      "id": 7,
+      "name": "jacket, green",
+      "image": "assets/clothes/10.png",
+      "season": "mid season",
+      "activity": "out of town"
+    },
+    {
+      "id": 8,
+      "name": "sneakers, white",
+      "image": "assets/clothes/2.png",
+      "season": "mid season",
+      "activity": "run, casual"
+    },
+    {
+      "id": 9,
+      "name": "jeans, grey",
+      "image": "assets/clothes/7.png",
+      "season": "mid season",
+      "activity": "out of town"
+    },
+    {
+      "id": 10,
+      "name": "hoodie, white",
+      "image": "assets/clothes/3.png",
+      "season": "mid season",
+      "activity": "casual"
+    },
+    {
+      "id": 11,
+      "name": "sneakers, red",
+      "image": "assets/clothes/11.png",
+      "season": "mid season",
+      "activity": "run, casual"
+    },
+    {
+      "id": 12,
+      "name": "pants, blue",
+      "image": "assets/clothes/8.png",
+      "season": "mid season",
+      "activity": "run, gym"
+    }
+  ]
+  
