@@ -9,7 +9,7 @@ class MainApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final Color mainAppColor = const Color(0xFF1B2A1D);
+    final Color mainAppColor = Colors.transparent; // const Color(0xFF1B2A1D)
     return MultiBlocProvider(
       providers: [
         BlocProvider(create: (context) => OutfitCubit()),
